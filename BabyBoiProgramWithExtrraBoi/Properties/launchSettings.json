@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "BabyBoiProgramWithExtrraBoi": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\davet\\Desktop \"timesheet example.txt\" C:\\Users\\davet\\Desktop Timesheet.xlsx"
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}
